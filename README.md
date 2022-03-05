@@ -11,4 +11,4 @@ This is a refactoring project for Horiseon Marketing to make their website more 
 
 ## DEPLOYED APPLICATION
 
-https://github.com/ssbbgm/hw1-code-refactor/
+https://ssbbgm.github.io/hw1-code-refactor/
